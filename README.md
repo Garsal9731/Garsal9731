@@ -1,4 +1,6 @@
-### Hi there 👋
+### Creando Software y herramientas.
+### Lenguajes más usados:
+## <b>Bash, PHP, HTML, CSS, Markdown, XML y MYSQL</b>
 
 <!--
 **Garsal9731/Garsal9731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
